@@ -6,8 +6,6 @@ Audible results, as presented in the paper, as well as examples of realizations 
 
 *For optimal audio experience, please use headphones.*
 
-This repository is still in the process of being updated. Please stay tuned.
-
 ----------
 
 ## Use
