@@ -12,4 +12,4 @@ Audible results, as presented in the paper, as well as examples of realizations 
 
 Please cite
 
-> Chang, C.-y., & Chen, Y.-p. (2024). Revisiting the Formation of Harmonic Progressions from the Perspective of Voice-Leading with Evolutionary Computation. In <i>Proceedings of 2024 IEEE Congress on Evolutionary Computation (CEC 2024)</i>. (doi pending)
+> Chang, C.-y., & Chen, Y.-p. (2024). Revisiting the Formation of Harmonic Progressions from the Perspective of Voice-Leading with Evolutionary Computation. In <i>Proceedings of 2024 IEEE Congress on Evolutionary Computation (CEC 2024)</i>. doi: [10.1109/CEC60901.2024.10612200](https://doi.org/10.1109/CEC60901.2024.10612200).
